@@ -39,4 +39,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 - roninja
 - https://gudetama.cf
+- https://medium.com/@angryovalegg/client-side-desync-attack-4b71f00f0306
 
